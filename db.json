@@ -1,0 +1,30 @@
+{
+  "emojis": [
+    {"emoji": "☺️", "text": "happy",
+      "value": "25"
+    },
+    {"emoji": "😍", "text": "confident",
+      "value": "100"},
+    {"emoji": "😁", "text": "proud",
+      "value": "50"},
+    {"emoji": "😇", "text": "grateful",
+      "value": "25"},
+    {"emoji": "😐", "text":"numb",
+      "value": "75"},
+    {"emoji": "😠", "text": "angry",
+      "value": "0"},
+    {"emoji": "😟", "text": "bored",
+      "value": "100"},
+    {"emoji": "🤗", "text": "joyful",
+      "value": "25"},
+    {"emoji": "😆️", "text": "optimistic",
+      "value": "50"},
+    {"emoji": "👌️", "text": "okay",
+      "value": "25"},
+    {"emoji": "😪", "text": "depressed",
+      "value": "75"},
+    {"emoji": "😈", "text": "wicked",
+      "value": "100"}
+  ]
+}
+
